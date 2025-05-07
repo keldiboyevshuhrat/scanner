@@ -17,7 +17,7 @@ int methodi {
 
 int comment bersa ham boladi va str yoki char besa ham hatolik otmaydi yana
 
-min , max ham bersa boladi bunda min dan max ga cha olgan sonlarni bersa boladi 
+min , max ham bersa boladi bunda min dan max ga cha bolgan sonlarni qaytar maguncha method ishlaveradi  
 
 
 }
